@@ -22,13 +22,13 @@
         <div >
         <table border="1">
             <td>
-                <p>PRIMER PARCIAL TEM-742<p>
-                <p>Nombre: Neustan Eliezer Choque Mamani<p>
-                <p>Carnet: 9947416 LP.<p>
+                <p><b>PRIMER PARCIAL TEM-742</b><p>
+                <p><b>Nombre:</b> Neustan Eliezer Choque Mamani<p>
+                <p><b>Carnet:</b> 9947416 LP.<p>
             </td>
         </table>
         </div>
-        <h1>Gestor de Tareas</h1>
+        <h1>Registro de Notas</h1>
         <a href="MainServlet?op=nuevo"><input type="submit" value="Nuevo"></a>
         <table border="1">
                 <tr>
